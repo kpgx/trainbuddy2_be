@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb1a6047-c9a5-464d-82eb-3dd5f40a0e12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/trainbuddy_be/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainbuddy_be/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="cb1a6047-c9a5-464d-82eb-3dd5f40a0e12" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trainbuddy_be/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
@@ -56,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trainbuddy_be/urls.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -198,12 +196,12 @@
       <updated>1550648207722</updated>
       <workItem from="1550648211939" duration="946000" />
       <workItem from="1552027077039" duration="8000" />
-      <workItem from="1553857339586" duration="568000" />
+      <workItem from="1553857339586" duration="710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1522000" />
+    <option name="totallyTimeSpent" value="1664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -256,9 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainbuddy_be/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/trainbuddy_be/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -282,6 +277,9 @@
           <caret line="123" column="49" selection-start-line="123" selection-start-column="49" selection-end-line="123" selection-end-column="49" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainbuddy_be/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
